@@ -1,0 +1,4 @@
+bif的含义
+认识print input
+学会用help()查看bif的用法
+输入 dir(__builtins__) 可以看到 Python 提供的内置方法列表

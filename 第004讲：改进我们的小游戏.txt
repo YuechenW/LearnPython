@@ -1,0 +1,7 @@
+条件为真为True为假是False
+注意冒号缩进
+and or 逻辑运算符
+random模块：
+import random 
+这个random模块里边有一个函数叫做：
+randint（），Ta会返回一个随机的整数。

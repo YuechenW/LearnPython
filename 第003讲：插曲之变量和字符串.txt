@@ -1,0 +1,4 @@
+Python 中的变量名不能以数字开头。
+在原始字符串结尾输入反斜杠：
+       >>>str = r'C:\Program Files\FishC\Good''\\' 
+Python 不介意我们对内置函数进行赋值操作，要注意

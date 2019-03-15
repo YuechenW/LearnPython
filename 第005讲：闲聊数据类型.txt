@@ -1,0 +1,10 @@
+类型转换
+  int()截断处理 
+  str()
+  float()
+确定变量的类型
+    type()函数
+    isinstance()函数
+        >>>a='小甲鱼”
+        >>>isinstance（a，st）
+        >>>True
